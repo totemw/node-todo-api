@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="angular" level="application" />
+    <orderEntry type="library" name="angular-route" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="bootstrap-collapse" level="application" />
+    <orderEntry type="library" name="bootstrap-transition" level="application" />
+    <orderEntry type="library" name="chai-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="expect-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="expect.js-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="expectations-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-domain-middleware-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-handlebars-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-route-fs-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-serve-static-core-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-expect-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-matchers-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-node-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jest-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="jQuery-2.0.0" level="application" />
+    <orderEntry type="library" name="karma-jasmine-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="mocha-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="mocha-phantomjs-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="MooTools-1.4.5" level="application" />
+    <orderEntry type="library" name="Prototype-1.7.1" level="application" />
+    <orderEntry type="library" name="requirejs-DefinitelyTyped" level="application" />
+  </component>
+</module>
