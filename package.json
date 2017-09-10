@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node /Users/totem/Desktop/Projects/node-todo-api/server/server.js",
     "test": "mocha server/**/*.test.js",
     "test-watch": "nodemon -exec 'npm test'"
+  },
+  "engines": {
+    "node": "8.1.4"
   },
   "author": "totem",
   "license": "ISC",

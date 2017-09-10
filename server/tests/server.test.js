@@ -9,7 +9,9 @@ beforeEach((done) => {
 });
 
 describe('POST /todos', () => {
-    it('should create a new todo', (done) => {
+    it('should create a new todo', (done) =>
+
+    {
         const text = 'Test todo text';
 
         request(app)
